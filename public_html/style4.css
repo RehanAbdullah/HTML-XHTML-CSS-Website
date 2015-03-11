@@ -1,0 +1,151 @@
+#container  {width:950px;
+			background-attachment: fixed;
+             margin-left: auto;
+             margin-right:auto;
+             background-color: #0068C4;
+	  background-color: #0068C4;
+	  padding: 20px;
+	  font-size: 16px;
+}
+
+#wrapper {
+	width: 950px;
+	margin: auto;
+	border: 1px solid #0068C4;
+	background-color: #ffffff;}
+
+#b {display: block;
+width: 160;
+height:120;
+background-repeat: no-repeat;
+background-position: xpx ypx;}
+
+#b img {display: none;}
+
+#c {display: block;
+width: 160;
+height:120;
+background-repeat: no-repeat;
+background-position: xpx ypx;}
+
+#c img {display: none;}
+
+
+#navMenu { margin:0; padding:0;
+	
+}
+
+#navMenu ul  {
+    margin: 0;
+	padding: 0;
+	line-height:30px;
+}
+
+#navMenu li  {
+    margin: 0;
+	padding: 0;
+	list-style:none;
+	float:left;
+	position:relative;
+	background:#0000FF;
+}
+
+#navMenu ul li a {
+    text-align:center;
+	font-family:"Comic Sans MS", cursive;
+	text-decoration:none;
+	height:30px;
+	width:235px;
+	display:block;
+	color:#FFF;
+	border:1px solid #FFF;
+	text-shadow:1px 1px 1px #000;
+}
+
+#navMenu ul ul {
+	
+    position:absolute;
+	visibility:hidden;
+	top:32px;
+}
+
+#navMenu ul li:hover ul {
+   visibility:visible;
+}
+
+
+
+#navMenu li:hover  {
+      background: #09F;
+}
+
+#navMenu ul li:hover ul li a:hover {
+       background: #CF5;
+	   color:#000;
+}
+
+
+#navMenu a:hover {
+      color:#000;
+}
+
+.clearFloat {
+    clear:both;
+	margin: 0;
+	padding: 0;
+ }
+
+article {
+	clear: both;
+	overflow: auto;
+	width: 100%;}
+hgroup {
+	margin-top: 40px;}
+figure {
+	float: left;
+	width: 290px;
+	height: 220px;
+	padding: 5px;
+	margin: 20px;
+	border: 1px solid #eeeeee;}
+	
+section.websites {
+	float: left;
+	width: 390px;
+	height: 120px;
+	padding: 5px;
+	margin: 20px;
+
+	border: 1px solid #eeeeee;
+	margin-top: 0px; }
+	
+section.contact {
+	float: right;
+	width: 390px;
+	height: 120px;
+	padding: 5px;
+	margin: 20px;
+
+	border: 1px solid #eeeeee;
+	margin-top: 0px; }	
+ 
+ 
+ footer {
+	clear: both;
+	color: #eeeeee;
+	background-color: #0000FF;
+	height: 30px;}
+ 
+
+
+h2 {margin: 0 0 0 0; padding: 0;}
+
+p {margin: 0 0 1em 0; padding: 0; font-size: 90%;}
+
+body {background: #0068C4;
+     font-family: "Trebuchet MS", Arial,
+		Helvetica, sans-serif; color: #000000}
+		
+p           {margin-top:0; margin-bottom: 12px
+       font-size:12px; line-height:1.2}
+   
